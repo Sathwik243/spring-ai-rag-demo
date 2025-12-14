@@ -29,7 +29,6 @@ No external API keys are required.
 
 ## Project Structure
 spring-ai-rag-demo/
-│
 ├── backend/
 │ └── SpringAIDemo/
 │ ├── src/
